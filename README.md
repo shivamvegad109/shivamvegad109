@@ -17,25 +17,19 @@ I am a passionate **AI & Full-Stack Developer** with 2+ years of experience in *
 
 ## **🛠 Tech Stack**
 **Languages:**  
-`Python` | `JavaScript` | `HTML` | `CSS` | `React/TypeScript` | `Next.js`
+`Python` | `JavaScript` | `HTML` | `CSS` | `TypeScript`
 
-**Frameworks:**  
-`Django` | `Flask` | `FastAPI` | `LangChain` | `LlamaIndex`  
+**Frameworks/Libraries:**  
+`Django` | `Flask` | `FastAPI` | `LangChain` | `LlamaIndex` | `React` | `Next.js` | `Pandas` | `NumPy` | `PyTest`
 
 **Databases:**  
 `PostgreSQL` | `MySQL` | `MongoDB` | `Redis` | Cosmos DB 
 
 **AI/ML & Tools:**  
-`OpenAI` | `Vector Databases` | `Transformers` | `Elasticsearch` | `Docker` | `Kubernetes` | `GCP` | `AWS`  
+`OpenAI` | `Vector Databases` | `Transformers` | `Elasticsearch` | `Docker` | `Matplotlib` | `Seaborn` | `AWS` | `TensorFlow`
 
 ---
 
-## **📈 GitHub Stats**
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvegad109&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvegad109&layout=compact&theme=radical)
-
----
 
 ## **🌐 Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamvegad109/)  
