@@ -31,14 +31,13 @@ I am a passionate **AI & Full-Stack Developer** with 2+ years of experience in *
 ---
 
 ## **📈 GitHub Stats**
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvegad&show_icons=true&theme=radical)  
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamvegad109&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvegad&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamvegad109&layout=compact&theme=radical)
 
 ---
 
 ## **🌐 Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-vegad/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamvegad109/)  
 
 ---
