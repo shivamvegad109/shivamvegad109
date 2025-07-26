@@ -23,7 +23,7 @@ I am a passionate **AI & Full-Stack Developer** with 2+ years of experience in *
 `Django` | `Flask` | `FastAPI` | `LangChain` | `LlamaIndex` | `React` | `Next.js` | `Pandas` | `NumPy` | `PyTest`
 
 **Databases:**  
-`PostgreSQL` | `MySQL` | `MongoDB` | `Redis` | Cosmos DB 
+`PostgreSQL` | `MySQL` | `MongoDB` | `Redis` | `Cosmos DB` 
 
 **AI/ML & Tools:**  
 `OpenAI` | `Vector Databases` | `Transformers` | `Elasticsearch` | `Docker` | `Matplotlib` | `Seaborn` | `AWS` | `TensorFlow`
